@@ -46,7 +46,7 @@ for d,sample in enumerate(X):
 
 plt.plot([-2,6],[6,0.5])
 
-
+# Go through Hinge_loss file for more information
 # In[57]:
 
 
